@@ -9,7 +9,7 @@ Linux, Docker & Kubernetes, React.js, GraphQL, SQL, Mongo, Emacs & more. Literal
 ## [Join our community by signing up for our newsletter!](https://truthseekers.io/latest-tutorials-signup/)
 
 
-# Lectures & Branches
+# Lectures & Branches * Add a start script to package.json for any branch you checkout! *
 
 Lecture: GraphQL Hello Worl with graphql-yoga
 Branch - hello-world-done
